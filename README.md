@@ -1,4 +1,4 @@
-# Visualization- SalesDataset- PowerBI
+# Visualization - SalesDataset- PowerBI
 
 Adventureworks Sales - Data Visualization done using PowerBI
 
