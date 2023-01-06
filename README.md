@@ -14,10 +14,11 @@ FileName "Understanding Visuals" for detailed explanation on the visuals.
 
 Tasks : 
   1. Cleaning Data 
-  2. Creating a Data Model
-  3. Performing EDA on dataset
-  4. Creating Calculated Columns and Measures
-  5. Visualization
+  2. Performing Data Transformation.
+  3. Creating model and relationships
+  4. Performing EDA on dataset
+  5. Creating Calculated Columns and Measures
+  6. Visualization
 
 Summary of DAX Functions used :
   1. Date Functions
