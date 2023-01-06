@@ -3,6 +3,7 @@
 Adventureworks Sales - Data Visualization done using PowerBI
 
 Dataset : mavenanalytics (uploaded on project).
+Technologies Used : PowerBI Desktop, PowerBI Service
 
 Published PowerBI Report : 
 
@@ -28,4 +29,4 @@ Summary of DAX Functions used :
   7. Rolling Totals using Date functions
   8. Created hierarchies for Terriotories table i.e State -> Country -> City
   
-Technologies Used : PowerBI Desktop, PowerBI Service
+
