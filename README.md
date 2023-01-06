@@ -3,8 +3,10 @@
 Adventureworks Sales - Data Visualization done using PowerBI
 
 Dataset : mavenanalytics (uploaded on project).
+Published PowerBI Report : https://app.powerbi.com/viewr=eyJrIjoiMWI4NzI4MmMtYTgwYS00ZTYxLWJlZDktMTIwYjA4MjkxNDg2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection6a0ffc1901390ee8b07e
 
-Visualizations are exported as .pdf formats as yet to setup PowerBI service.
+
+Visualizations are exported as .pdf formats.
 FileName "Understanding Visuals" for detailed explanation on the visuals.
 
 Tasks : 
